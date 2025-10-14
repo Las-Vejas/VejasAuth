@@ -20,3 +20,13 @@ I was faces by the pins of the RP2350's internal clock pins and I was bamboozled
 
   
 
+## 10/13/2025 - Made the PCB  
+
+I started by looking for parts and ways to actually solder this thing together. I found out that the may be a hotplate at the repair cafe in my school, so that's the way ill solder this thing rather than getting it PCBA from china (unless that's cheaper). Therefore I had to change the USBC port on the schematic and the PCB. So I did that, and I placed all my components on and routed everything.
+Now I'll have to find every component in Digikey.
+
+Here is my PCB:
+
+![SCR-20251013-rfij.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--3d8da98b9722b12fa02ae6a79ed3ba8e4b22fc2e/SCR-20251013-rfij.png)
+  
+

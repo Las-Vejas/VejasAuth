@@ -30,3 +30,20 @@ Here is my PCB:
 ![SCR-20251013-rfij.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--3d8da98b9722b12fa02ae6a79ed3ba8e4b22fc2e/SCR-20251013-rfij.png)
   
 
+## 10/19/2025 - Added an LED, and a hole for a keychain.  
+
+So since the last update, I decided that an LED was necessary for this as I want to have some sort of physical confirmation after authentication. Also added some silkscreen.
+
+To not lose my Auth thingy, I have also added a 2.2 mm hole in the bottom right corner which required me to move the USB C port to the left and I really did not want to do that as now my board is not symmetrical. :(
+
+Also had to reroute a few things to reduce the size of the board so it's looking pretty nice!
+
+
+Here's a picture of the layout of the usb c port. 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--52dfd73c6122b9f4ff1a4ef6b4ab0c1d4fcbd0cc/image.png)
+
+
+Silkscreen:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--d90b2a14f20d65ef4fb5b175892d0cd98ee092bd/image.png)
+  
+

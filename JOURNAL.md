@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **VejasAuth**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/440).
-
-
 ## 10/12/2025 - Made the schematic  
 
 So I started by (attempting) making the schematic with a guide by [@smartlinuxcoder](@https://github.com/smartlinuxcoder) and was using an rp2040 and the components he specified in his guide, but after asking a question in Slack I was met with the reality that the rp2040 is not safe enough for a yubikey.
@@ -45,5 +41,15 @@ Here's a picture of the layout of the usb c port.
 
 Silkscreen:
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--d90b2a14f20d65ef4fb5b175892d0cd98ee092bd/image.png)
+  
+
+## 10/24/2025 - Exported Stuff and BOM  
+
+I'm looking for things that are incorrect between my Digikey BOM and the one I have from kicad.
+I found a capacitor missing a capacitance, And I found a resistor that is currently being a massive pain in my ass as I only found out it was missing when I finished routing ffs. 
+So after that back to battling with the boms.
+im getting close to double checking all the information and it should be done!
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--94c87bce776d29d5bc45761fecab2bd2da656bde/image.png)
   
 

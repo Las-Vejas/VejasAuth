@@ -1,4 +1,29 @@
-Price,Company
-44.42 $US,Digikey
-11.10 $US,JLCPCB
-18.35 $US,JLCPCB Shipping
+BOM,,,,,,,,
+JLCPCB BOM,,,,,,,,
+Item,Price,NOTES,,,,,,
+PCB,4.10,,,,,,,
+Stencil,7.00,,,,,,,
+Shipping,19.21,"Cheapest option possible, also price is halved as it will be shared with another (or 2 other) project",,,,,,
+LCSC BOM Quotation,,,,,,,,
+Mrf#,Mfr.,Order Qty.,Unit Price(USD),Ext.Price(USD),LCSC#,Package,Description,Product Link
+CL05A475MP5NRNC,Samsung Electro-Mechanics,50,0.0049,0.25,C23733,0402,4.7uF ±20% 10V Ceramic Capacitor X5R 0402,https://www.lcsc.com/product-detail/C23733.html
+CL05B104KO5NNNC,Samsung Electro-Mechanics,100,0.0013,0.13,C1525,0402,100nF ±10% 16V Ceramic Capacitor X7R 0402,https://www.lcsc.com/product-detail/C1525.html
+CL05C220JB5NNNC,Samsung Electro-Mechanics,100,0.0027,0.27,C70464,0402,22pF ±5% 50V Ceramic Capacitor C0G 0402,https://www.lcsc.com/product-detail/C70464.html
+CL10A106KP8NNNC,Samsung Electro-Mechanics,50,0.0060,0.30,C19702,0603,10uF ±10% 10V Ceramic Capacitor X5R 0603,https://www.lcsc.com/product-detail/C19702.html
+CL05A105KP5NNNC,Samsung Electro-Mechanics,100,0.0018,0.18,C14445,0402,1uF ±10% 10V Ceramic Capacitor X5R 0402,https://www.lcsc.com/product-detail/C14445.html
+WS2812B-2020,Worldsemi,10,0.0829,0.83,C965555,"SMD,2.2x2mm","SMD,2.2x2mm LED Addressable, Specialty RoHS",https://www.lcsc.com/product-detail/C965555.html
+TYPE-C 16PIN 2MD(073),SHOU HAN,20,0.0600,1.20,C2765186,SMD,"USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount, Right Angle",https://www.lcsc.com/product-detail/C2765186.html
+LQM21PN3R3MGRD,muRata,10,0.0742,0.74,C162585,0805,1A 3.3uH 187.5mΩ Multilayer inductor ±20% 0805 Fixed Inductors RoHS,https://www.lcsc.com/product-detail/C162585.html
+RC0402FR-071KL,YAGEO,100,0.0007,0.07,C106235,0402,1kΩ 62.5mW 50V Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS,https://www.lcsc.com/product-detail/C106235.html
+RC0402JR-075K1L,YAGEO,100,0.0007,0.07,C105873,0402,5.1kΩ ±5% 62.5mW 0402 Thick Film Resistor,https://www.lcsc.com/product-detail/C105873.html
+RC0402JR-0727RL,YAGEO,100,0.0007,0.07,C137890,0402,27Ω 62.5mW 50V Thick Film Resistor ±100ppm/℃ ±5% 0402 Chip Resistor - Surface Mount RoHS,https://www.lcsc.com/product-detail/C137890.html
+RC0402FR-0733RL,YAGEO,100,0.0007,0.07,C138002,0402,62.5mW 33Ω 50V Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS,https://www.lcsc.com/product-detail/C138002.html
+SKRKAEE020,ALPSALPINE,10,0.1298,1.30,C115357,"SMD,3.9x2.9mm",Tactile Switch SPST 2mm 3.9mm x 2.9mm Surface Mount,https://www.lcsc.com/product-detail/C115357.html
+W25Q128JVSIQ,Winbond,3,2.1253,6.38,C97521,SOIC-8-208mil,2.7V~3.6V 128Mbit 133MHz SPI SOIC-8-208mil Memory (ICs) RoHS,https://www.lcsc.com/product-detail/C97521.html
+XC6206P332MR-G,TOREX,5,0.1033,0.52,C5446,SOT-23-3L,"6V Positive Fixed 3.3V SOT-23-3L Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",https://www.lcsc.com/product-detail/C5446.html
+RP2350A,Raspberry Pi,3,1.2357,3.71,C42411118,QFN-60-EP(7x7),QFN-60-EP(7x7) Microcontrollers RoHS,https://www.lcsc.com/product-detail/C42411118.html
+ABM8-272-T3,ABRACON,5,0.3272,1.64,C20625731,SMD3225-4P,±30ppm 10pF ±30ppm SMD3225-4P Crystals RoHS,https://www.lcsc.com/product-detail/C20625731.html
+USB-05,SOFNG,5,0.0734,0.37,C112454,Through Hole,USB-A (USB TYPE-A) Receptacle Connector 4 Position Through Hole,https://www.lcsc.com/product-detail/C112454.html
+TOTAL,,,,18.10,,,,
+Shipping,,,,11.60/2=5.80,Shared with another project.,,,
+TOTAL OF WHOLE BOM,,,,54.22,,,,

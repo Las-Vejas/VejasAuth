@@ -2,8 +2,8 @@ BOM,,,,,,,,
 JLCPCB BOM,,,,,,,,
 Item,Price,NOTES,,,,,,
 PCB,4.10,,,,,,,
-Stencil,7.00,,,,,,,
-Shipping,19.21,"Cheapest option possible, also price is halved as it will be shared with another (or 2 other) project",,,,,,
+Stencil,3,,,,,,,
+Shipping,14.68,"Cheapest option possible, also price is halved as it will be shared with another (or 2 other) project",,,,,,
 LCSC BOM Quotation,,,,,,,,
 Mrf#,Mfr.,Order Qty.,Unit Price(USD),Ext.Price(USD),LCSC#,Package,Description,Product Link
 CL05A475MP5NRNC,Samsung Electro-Mechanics,50,0.0049,0.25,C23733,0402,4.7uF ±20% 10V Ceramic Capacitor X5R 0402,https://www.lcsc.com/product-detail/C23733.html
@@ -24,6 +24,6 @@ XC6206P332MR-G,TOREX,5,0.1033,0.52,C5446,SOT-23-3L,"6V Positive Fixed 3.3V SOT-2
 RP2350A,Raspberry Pi,3,1.2357,3.71,C42411118,QFN-60-EP(7x7),QFN-60-EP(7x7) Microcontrollers RoHS,https://www.lcsc.com/product-detail/C42411118.html
 ABM8-272-T3,ABRACON,5,0.3272,1.64,C20625731,SMD3225-4P,±30ppm 10pF ±30ppm SMD3225-4P Crystals RoHS,https://www.lcsc.com/product-detail/C20625731.html
 USB-05,SOFNG,5,0.0734,0.37,C112454,Through Hole,USB-A (USB TYPE-A) Receptacle Connector 4 Position Through Hole,https://www.lcsc.com/product-detail/C112454.html
-TOTAL,,,,18.10,,,,
-Shipping,,,,11.60/2=5.80,Shared with another project.,,,
-TOTAL OF WHOLE BOM,,,,54.22,,,,
+TOTAL,,,,18.52,,,,
+Shipping,,,,9.93,Shared with another project.,,,
+TOTAL OF WHOLE BOM,,,,50.23,,,,
